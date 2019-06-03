@@ -1,7 +1,7 @@
 /*
-	Copyright 2015 Smx
-	Linux Kernel driver for MT88E39 Caller ID Decoder
-*/
+ * Copyright 2019 Stefano Moioli <smxdev4@gmail.com>
+ * Linux Kernel driver for MT88E39 Caller ID Decoder
+ **/
 
 #include <linux/init.h>			// Macros used to mark up functions e.g. __init __exit
 #include <linux/module.h>		// Core header for loading LKMs into the kernel

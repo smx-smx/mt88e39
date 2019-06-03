@@ -1,3 +1,7 @@
+/*
+ * Copyright 2019 Stefano Moioli <smxdev4@gmail.com>
+ * Linux Kernel driver for MT88E39 Caller ID Decoder
+ **/
 #ifndef __MT88E39_H
 #define __MT88E39_H
 
